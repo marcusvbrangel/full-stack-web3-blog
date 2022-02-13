@@ -26,7 +26,7 @@ contract Blog {
   event PostCreated(uint id, string title, string hash);
   event PostUpdated(uint id, string title, string hash, bool published);
 
-  contructor(string memory _name) {
+  constructor(string memory _name) {
     console.log("Deploying Blog with name: ", _name);
     name = _name;
     owner = msg.sender;
@@ -47,18 +47,18 @@ contract Blog {
   function createPost(string memory _title, string memory _hash) public onlyOwner {
 
     _postIds.increment();
-    uint postId = _postIds.increment();
+    uint postId = _postIds.current();
 
     Post storage post = idToPost[postId];
 
     post.id = postId;
-    post.title = title;
+    post.title = _title;
     post.published = true;
     post.content = _hash;
 
     hashToPost[_hash] = post;
 
-    emit PostCreated(postId, title, _hash);
+    emit PostCreated(postId, _title, _hash);
     
   }
 
@@ -77,7 +77,7 @@ contract Blog {
       idToPost[_postId] = post;
       hashToPost[_hash] = post;
 
-      emit PostUpdated(post.id, title, hash, published);
+      emit PostUpdated(post.id, _title, _hash, _published);
 
   }
 
@@ -106,7 +106,7 @@ contract Blog {
   }
 
   modifier onlyOwner() {
-    required(msg.sender === owner);
+    require(msg.sender == owner);
     _;
   }
 
