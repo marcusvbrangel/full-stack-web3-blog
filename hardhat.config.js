@@ -7,6 +7,7 @@ module.exports = {
   networks: {
 
     hardhat: {
+      port: "8545",
       chainId: 1337
     },
 
