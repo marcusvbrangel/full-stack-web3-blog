@@ -24,13 +24,12 @@ const main = async () => {
   await blog.deployed();
 
   console.log("Blog deployed to: ", blog.address);
-
-
+  
   const fileName = "./config.js";
 
   const fileText = `
-    export const blogAddress = "${blog.address}"
-    export const blogOwner = "${blog.signer.address}"  
+    export const contractAddressBlog = "${blog.address}"
+    export const ownerAddressBlog = "${blog.signer.address}"  
   `;
 
   fs.writeFileSync(fileName, fileText);

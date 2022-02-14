@@ -1,140 +1,128 @@
+/* eslint-disable @next/next/no-img-element */
 import { css } from "@emotion/css";
 import { useContext } from "react";
 import { useRouter } from "next/router";
 import { ethers } from "ethers";
 import Link from "next/link";
-import Image from "next/image";
-import { AccountContext } from "../context"
+import { AccountContext } from "../context";
 
-// import contract address and contract owner address...
-import { blogAddress, blogOwner } from "../config";
-
-// import Application Binary Interface (ABI)...
-import Blog from "../artifacts/contracts/Blog.sol/Blog.json";
+import { contractAddressBlog, ownerAddressBlog } from "/config";
+import Blog from "/artifacts/contracts/Blog.sol/Blog.json";
 
 
 const Home = (props) => {
 
   const { posts } = props;
+
   const account = useContext(AccountContext);
 
   const router = useRouter();
-  const navigate = async () => {
-    router.push("/create-post");
-  };
 
+  async function navigate() {
+    router.push('/create-post')
+  }
 
   return (
 
-    <>
-    
-      <h1>Blog - Full Stack Web3 Developer</h1>
-
-      <hr />
-
+    <div>
+      
       <div className={postList}>
 
-        {
+        {         
           posts.map((post, index) => (
 
-            <Link key={index} href={`/post/${post[2]}`} >
+            <Link href={`/post/${post[2]}`} key={index}>
 
               <a>
-                
+
                 <div className={linkStyle}>
 
                   <p className={postTitle}>{post[1]}</p>
 
                   <div className={arrowContainer}>
 
-                    <Image 
-                      src={'/right-arrow.svg'}
-                      alt="Right arrow"
+                    <img
+                      src='/right-arrow.svg'
+                      alt='Right arrow'
                       className={smallArrow}
                     />
 
                   </div>
-                  
-                </div>    
-                
-              </a>            
-                        
+
+                </div>
+
+              </a>
+
             </Link>
 
           ))
-
         }
 
       </div>
-
 
       <div className={container}>
 
         {
-          (account === blogOwner) && posts && !posts.length && (
-
+          (account === ownerAddressBlog) && posts && !posts.length && (
+        
             <button className={buttonStyle} onClick={navigate}>
 
-              <Image 
+              Create your first post
+
+              <img
                 src='/right-arrow.svg'
-                alt="Right Arrow"
+                alt='Right arrow'
                 className={arrow}
               />
 
             </button>
-
           )
-
         }
 
       </div>
 
-    </>
+    </div>
 
-  );
-
+  )
 }
 
-export default Home;
+export default Home
 
 
 export async function getServerSideProps() {
+  
+  let provider
 
-  let provider;
-
-  if (process.env.ENVIRONMENT === "local") {
+  if (process.env.ENVIRONMENT === 'development') {
 
     provider = new ethers.providers.JsonRpcProvider();
 
-  } else if (process.env.ENVIRONMENT === "testnet") {
+  } else if (process.env.ENVIRONMENT === 'test') {
 
-    provider = new ethers.providers.JsonRpcProvider("https://rpc-mumbai.matic.today");
+    provider = new ethers.providers.JsonRpcProvider('https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-');
 
-  } else if (process.env.ENVIRONMENT === "mainnet") {
+  } else if (process.env.ENVIRONMENT === 'production') {
 
-    provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com/");
+    provider = new ethers.providers.JsonRpcProvider("");
 
   }
 
-  const blogContract = new ethers.Contract(blogAddress, Blog.abi, provider);
+  const contract = new ethers.Contract(contractAddressBlog, Blog.abi, provider);
 
-  const data = await blogContract.fetchPosts();
+  const data = await contract.fetchPosts();
 
   return {
-
     props: {
       posts: JSON.parse(JSON.stringify(data))
     }
-
   }
 
 }
-
 
 const arrowContainer = css`
   display: flex;
   flex: 1;
-  justity-content: flex-end;
+  justify-content: flex-end;
   padding-right: 20px;
 `
 
@@ -142,11 +130,12 @@ const postTitle = css`
   font-size: 30px;
   font-weight: bold;
   cursor: pointer;
-  margin: 0;padding: 20;
+  margin: 0;
+  padding: 20px;
 `
 
 const linkStyle = css`
-  border:1px solidy #ddd;
+  border: 1px solid #ddd;
   margin-top: 20px;
   border-radius: 8px;
   display: flex;
@@ -155,12 +144,12 @@ const linkStyle = css`
 const postList = css`
   width: 700px;
   margin: 0 auto;
-  padding-top: 50px;
+  padding-top: 50px;  
 `
 
 const container = css`
   display: flex;
-  justity-content: center;
+  justify-content: center;
 `
 
 const buttonStyle = css`
