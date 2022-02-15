@@ -31,7 +31,7 @@ const Home = (props) => {
         {         
           posts.map((post, index) => (
 
-            <Link href={`/post/${post[2]}`} key={index}>
+            <Link href={`/posts/${post[2]}`} key={index}>
 
               <a>
 

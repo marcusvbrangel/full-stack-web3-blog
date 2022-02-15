@@ -7,7 +7,7 @@ import { ethers } from "ethers";
 import Web3Modal from "web3modal";
 import WalletConnectProvider from "@walletconnect/web3-provider";
 import { AccountContext } from "../context";
-import { ownerAddress } from "/config";
+import { ownerAddressBlog } from "/config";
 import "easymde/dist/easymde.min.css";
 
 
@@ -126,7 +126,7 @@ const MyApp = ({ Component, pageProps }) => {
           </Link>
 
           {          
-            (account === ownerAddress) && (
+            (account === ownerAddressBlog) && (
 
               <Link href="/create-post">
                 
