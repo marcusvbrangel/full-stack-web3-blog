@@ -52,13 +52,13 @@ const CreatePost = () => {
   }
 
   const createNewPost = async () => {
-
+    
     if (!title || !content) return;
 
     const hash = await savePostToIpfs();
 
     await savePost(hash);
-
+    
     router.push("/");
 
   }
@@ -88,7 +88,7 @@ const CreatePost = () => {
       const signer = provider.getSigner();
 
       const contractBlog = new ethers.Contract(contractAddressBlog, Blog.abi, signer);
-
+      
       try {
         
         const contractBlogTx = await contractBlog.createPost(post.title, hash);
@@ -98,9 +98,7 @@ const CreatePost = () => {
         console.log("contractBlogTx", contractBlogTx);
 
       } catch (err) {
-
         console.log("Error: ", err);
-
       }
 
     }
@@ -134,6 +132,9 @@ const CreatePost = () => {
   return (
 
     <div className={container}>
+
+      <h1>Create Post</h1>
+      <hr/>
 
       {
         image && (
