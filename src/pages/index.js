@@ -7,7 +7,7 @@ import Link from "next/link";
 import { AccountContext } from "../context";
 
 import { contractAddressBlog, ownerAddressBlog } from "/config";
-import Blog from "/artifacts/contracts/Blog.sol/Blog.json";
+import Blog from "/web3/artifacts/web3/contracts/Blog.sol/Blog.json";
 
 
 const Home = (props) => {

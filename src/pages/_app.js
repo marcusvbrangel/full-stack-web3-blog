@@ -1,14 +1,14 @@
 /* eslint-disable @next/next/no-img-element */
-import "../styles/globals.css"
-import { useState } from "react"
-import Link from "next/link"
-import { css } from "@emotion/css"
-import { ethers } from "ethers"
-import Web3Modal from "web3modal"
-import WalletConnectProvider from "@walletconnect/web3-provider"
-import { AccountContext } from "../context"
-import { ownerAddress } from "/config"
-import "easymde/dist/easymde.min.css"
+import "../styles/globals.css";
+import { useState } from "react";
+import Link from "next/link";
+import { css } from "@emotion/css";
+import { ethers } from "ethers";
+import Web3Modal from "web3modal";
+import WalletConnectProvider from "@walletconnect/web3-provider";
+import { AccountContext } from "../context";
+import { ownerAddress } from "/config";
+import "easymde/dist/easymde.min.css";
 
 
 const MyApp = ({ Component, pageProps }) => {
@@ -62,7 +62,7 @@ const MyApp = ({ Component, pageProps }) => {
 
     } catch (err) {
 
-      console.log('error:', err)
+      console.log("error:", err)
 
     }
 
@@ -81,7 +81,7 @@ const MyApp = ({ Component, pageProps }) => {
             <a>
 
               <img
-                src='/icons8-image-file.svg'
+                src="/icons8-image-file.svg"
                 alt="React Logo"
                 style={{ width: '50px' }}
               />
