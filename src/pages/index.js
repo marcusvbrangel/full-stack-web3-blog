@@ -93,23 +93,25 @@ export async function getServerSideProps() {
   
   let provider
 
-  if (process.env.ENVIRONMENT === 'development') {
+  const environment = process.env.NEXT_PUBLIC_ENVIRONMENT; 
 
+  if (environment === 'development') {
+    console.log("development");
     provider = new ethers.providers.JsonRpcProvider();
 
-  } else if (process.env.ENVIRONMENT === 'test') {
-
+  } else if (environment === 'test') {
+    console.log("test");
     provider = new ethers.providers.JsonRpcProvider('https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-');
 
-  } else if (process.env.ENVIRONMENT === 'production') {
-
+  } else if (environment === 'production') {
+    console.log("production");
     provider = new ethers.providers.JsonRpcProvider("");
 
   }
+  
+  const contractBlog = new ethers.Contract(contractAddressBlog, Blog.abi, provider);
 
-  const contract = new ethers.Contract(contractAddressBlog, Blog.abi, provider);
-
-  const data = await contract.fetchPosts();
+  const data = await contractBlog.fetchPosts();
 
   return {
     props: {

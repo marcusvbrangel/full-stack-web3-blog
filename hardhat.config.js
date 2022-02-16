@@ -1,4 +1,8 @@
 require("@nomiclabs/hardhat-waffle");
+require("@nomiclabs/hardhat-etherscan");
+require('dotenv').config();
+
+const { API_URL, PRIVATE_KEY, ETHERSCAN_KEY } = process.env;
 
 module.exports = {
 
@@ -9,10 +13,10 @@ module.exports = {
       chainId: 1337
     },
 
-    // mumbai: {
-    //   url: "",
-    //   accounts: []
-    // },
+    mumbai: {
+      url: API_URL,
+      accounts: [PRIVATE_KEY]
+    },
 
     // polygon: {
     //   url: "",
@@ -41,6 +45,10 @@ module.exports = {
 
   mocha: {
     timeout: 40000
+  },
+
+  etherscan: {
+    apiKey: ETHERSCAN_KEY
   }
 
 };

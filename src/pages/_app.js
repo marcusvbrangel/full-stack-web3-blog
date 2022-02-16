@@ -40,7 +40,7 @@ const MyApp = ({ Component, pageProps }) => {
       },
 
     })
-
+    
     return web3Modal
 
   }

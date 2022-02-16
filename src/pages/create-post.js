@@ -7,6 +7,7 @@ import { ethers } from "ethers";
 import { create } from "ipfs-http-client";
 
 import { contractAddressBlog } from "/config";
+
 import Blog from "/web3/artifacts/web3/contracts/Blog.sol/Blog.json";
 
 const client = create("https://ipfs.infura.io:5001/api/v0");
