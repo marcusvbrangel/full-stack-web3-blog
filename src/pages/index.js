@@ -101,7 +101,7 @@ export async function getServerSideProps() {
 
   } else if (environment === 'test') {
     console.log("test");
-    provider = new ethers.providers.JsonRpcProvider('https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-');
+    provider = new ethers.providers.JsonRpcProvider("https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-");
 
   } else if (environment === 'production') {
     console.log("production");

@@ -1,7 +1,8 @@
 // contracts/Blog.sol
 // SPDX-License-Identifier: MIT
 
-import "hardhat/console.sol";
+pragma solidity 0.8.4;
+
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 contract Blog {
@@ -27,7 +28,6 @@ contract Blog {
   event PostUpdated(uint id, string title, string hash, bool published);
 
   constructor(string memory _name) {
-    console.log("Deploying Blog with name: ", _name);
     name = _name;
     owner = msg.sender;
   }

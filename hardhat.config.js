@@ -2,9 +2,11 @@ require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-etherscan");
 require('dotenv').config();
 
-const { API_URL, PRIVATE_KEY, ETHERSCAN_KEY } = process.env;
+const { API_URL, PRIVATE_KEY, API_SCAN_KEY } = process.env;
 
 module.exports = {
+
+  defaultNetwork: "hardhat",
 
   networks: {
 
@@ -48,7 +50,7 @@ module.exports = {
   },
 
   etherscan: {
-    apiKey: ETHERSCAN_KEY
+    apiKey: API_SCAN_KEY
   }
 
 };

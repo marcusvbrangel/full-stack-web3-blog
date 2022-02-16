@@ -51,7 +51,7 @@ const Post = () => {
 
     } else if (environment === 'test') {
 
-      provider = new ethers.providers.JsonRpcProvider('https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-');
+      provider = new ethers.providers.JsonRpcProvider("https://polygon-mumbai.g.alchemy.com/v2/FWm45N-DrSZvosyeQoN3q16dCmtnwGT-");
 
     } else if (environment === 'production') {
 
