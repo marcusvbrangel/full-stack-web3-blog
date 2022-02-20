@@ -62,12 +62,17 @@ Man pages have been added. Checkout `man colorls`.
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
 
+If this is your first time contributing to this project, please do read our [Contributor Workflow Guide](https://github.com/the-guild-org/Stack/blob/master/CONTRIBUTING.md) before you get started off.
+
+Feel free to open issues and pull requests. We're always welcome support from the community.
+
 
 ## Code of Conduct
 
 [(Back to top)](#table-of-contents)
 
-Help me keep this project open and inclusive. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
+Help me keep this project open and inclusive. Please read and follow our [
+of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
 ## License
