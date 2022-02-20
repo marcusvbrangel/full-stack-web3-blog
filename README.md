@@ -3,12 +3,8 @@
 
 <div>
   <div>
-    <img src="/public/web3-blog.png" alt="React Logo" style="width: '100px" />
+    <img src="/public/web3-blog.png" alt="Web3 Blog" style="width: '100px" />
   </div>
-  <div>
-    <h2>Web3 Blog</h2>
-    <p>A special place to share topics and tips about Web3</p>
-  </div>  
 </div>
 
 
