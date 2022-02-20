@@ -10,6 +10,7 @@
 ## Table of contents
 
 - [Technologies](#technologies)
+- [Directory Structure](#directory-structure)
 - [Live Preview](#live-preview)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
