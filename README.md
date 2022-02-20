@@ -38,6 +38,9 @@
 [MetaMask](https://metamask.io/) A crypto wallet & gateway to blockchain apps
 
 
+[The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.
+
+
 [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
 
