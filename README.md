@@ -26,6 +26,13 @@
 
 ## Features
 
+* List
+* Create
+* Update
+* Login
+* Add Cover
+
+
 
 
 <br />
