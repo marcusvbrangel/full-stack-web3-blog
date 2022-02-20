@@ -19,9 +19,22 @@
 
 ## Technologies
 
-[Ethereum](https://ethereum.org/en/)
+[Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 
-[Solidity](https://soliditylang.org/)
+
+[Solidity](https://soliditylang.org/) Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
+
+
+[Polygon](https://polygon.technology/) Polygon believes in Web3 for all. Polygon is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
+
+
+[Hardhat](https://hardhat.org/) Flexible. Extensible. Fast. Ethereum development environment for professionals
+
+
+[Alchemy](https://www.alchemy.com/) Web3 development made easy. The world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
+
+
+
 
 
 ## Live Preview
