@@ -60,17 +60,15 @@ Man pages have been added. Checkout `man colorls`.
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
 
+
+
 ## License
 
 [(Back to top)](#table-of-contents)
 
+Copyright (c) Marcus Rangel. All rights reserved.
 
-The MIT License (MIT) 2022 - [Marcus Rangel](https://github.com/marcusvbrangel). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
-
-
-
-
-
+Licensed under the [MIT](LICENSE.md) license.
 
 
 
