@@ -56,6 +56,14 @@ npx hardhat help
 
 Man pages have been added. Checkout `man colorls`.
 
+## Live Preview
+
+[(Back to top)](#table-of-contents)
+
+[Web3 Blog](https://full-stack-web3-blog.vercel.app/)
+A special place to share topics and tips about Web3
+
+
 ## Contributing
 
 [(Back to top)](#table-of-contents)
