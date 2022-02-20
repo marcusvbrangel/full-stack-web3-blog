@@ -53,6 +53,81 @@
 A special place to share topics and tips about Web3
 
 
+
+## Directory Structure
+
+
+.
+├── config.js
+├── hardhat.config.js
+├── LICENSE
+├── next.config.js
+├── notes.txt
+├── package.json
+├── package-lock.json
+├── public
+│   ├── ambanja-panther-chameleon-7921083.jpg
+│   ├── favicon.ico
+│   ├── icons8-file.svg
+│   ├── icons8-image-file.svg
+│   ├── icons8-scroll.svg
+│   ├── right-arrow.svg
+│   └── vercel.svg
+├── README.md
+├── src
+│   ├── components
+│   ├── context.js
+│   ├── pages
+│   │   ├── api
+│   │   │   └── hello.js
+│   │   ├── _app.js
+│   │   ├── create-post.js
+│   │   ├── edit-post
+│   │   │   └── [id].js
+│   │   ├── index.js
+│   │   └── posts
+│   │       └── [id].js
+│   └── styles
+│       ├── globals.css
+│       └── Home.module.css
+├── temp
+│   └── README.md
+└── web3
+    ├── artifacts
+    │   ├── build-info
+    │   │   ├── 84fa6715e973cf226d8cdd1f073e06d5.json
+    │   │   └── e2c8c8285a9e197dc3f05927c8b47b1b.json
+    │   ├── hardhat
+    │   │   └── console.sol
+    │   │       ├── console.dbg.json
+    │   │       └── console.json
+    │   ├── @openzeppelin
+    │   │   └── contracts
+    │   │       └── utils
+    │   │           └── Counters.sol
+    │   └── web3
+    │       └── contracts
+    │           ├── Blog.sol
+    │           │   ├── Blog.dbg.json
+    │           │   └── Blog.json
+    │           └── Greeter.sol
+    │               ├── Greeter.dbg.json
+    │               └── Greeter.json
+    ├── cache
+    │   └── solidity-files-cache.json
+    ├── config.js
+    ├── contracts
+    │   ├── Blog.sol
+    │   └── Greeter.sol
+    ├── scripts
+    │   └── deploy.js
+    └── test
+        └── blog-test.js    
+
+
+
+
+
 ## Contributing
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
