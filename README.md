@@ -2,7 +2,7 @@
 
 
 <div style="background-color: white">
-  <div>
+  <div style="background-color: white">
     <img src="/public/web3-blog.png" alt="Web3 Blog" style="width: '100px" />
   </div>
 </div>
