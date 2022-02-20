@@ -50,23 +50,14 @@ npx hardhat help
 - [Contributing](#contributing)
 - [License](#license)
 
-## Usage
-
-[(Back to top)](#table-of-contents)
-
-Man pages have been added. Checkout `man colorls`.
 
 ## Live Preview
-
-[(Back to top)](#table-of-contents)
 
 [Web3 Blog](https://full-stack-web3-blog.vercel.app/)
 A special place to share topics and tips about Web3
 
 
 ## Contributing
-
-[(Back to top)](#table-of-contents)
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
 
@@ -77,18 +68,12 @@ Feel free to open issues and pull requests. We're always welcome support from th
 
 ## Code of Conduct
 
-[(Back to top)](#table-of-contents)
-
 Help me keep this project open and inclusive. Please read and follow our [
 of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
 
-
-
 ## Contact
-
-[(Back to top)](#table-of-contents)
 
 Copyright (c) Marcus Rangel. All rights reserved.
 
@@ -96,8 +81,6 @@ Licensed under the [MIT](LICENSE.md) license.
 
 
 ## License
-
-[(Back to top)](#table-of-contents)
 
 Copyright (c) Marcus Rangel. All rights reserved.
 
