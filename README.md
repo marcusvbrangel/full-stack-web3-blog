@@ -92,34 +92,35 @@ For more details visit:
 * [Solidity](https://soliditylang.org/) Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
 
 
-[Polygon](https://polygon.technology/) Polygon believes in Web3 for all. Polygon is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
+* [Polygon](https://polygon.technology/) Polygon believes in Web3 for all. Polygon is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
 
 
-[Hardhat](https://hardhat.org/) Flexible. Extensible. Fast. Ethereum development environment for professionals
+* [Hardhat](https://hardhat.org/) Flexible. Extensible. Fast. Ethereum development environment for professionals
 
 
-[Alchemy](https://www.alchemy.com/) Web3 development made easy. The world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
+* [Alchemy](https://www.alchemy.com/) Web3 development made easy. The world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
 
 
-[MetaMask](https://metamask.io/) A crypto wallet & gateway to blockchain apps
+* [MetaMask](https://metamask.io/) A crypto wallet & gateway to blockchain apps
 
 
-[The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.
+* [The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.
 
 
-[IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+* [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
 
-[ethers.js](https://docs.ethers.io/v5/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
-
-[Waffle](https://getwaffle.io/) The most advanced framework for testing smart contracts
+* [ethers.js](https://docs.ethers.io/v5/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
 
 
+* [Waffle](https://getwaffle.io/) The most advanced framework for testing smart contracts
 
-[Next.js](https://nextjs.org/) The React Framework for Production
 
 
-[Vercel](https://vercel.com/) Vercel is the best place to deploy any frontend app. Start by deploying with zero configuration to our global edge network. Scale dynamically to millions of pages without breaking a sweat.
+* [Next.js](https://nextjs.org/) The React Framework for Production
+
+
+* [Vercel](https://vercel.com/) Vercel is the best place to deploy any frontend app. Start by deploying with zero configuration to our global edge network. Scale dynamically to millions of pages without breaking a sweat.
 
 
 
