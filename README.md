@@ -25,7 +25,7 @@
 1. Clone this repository
 
 ```sh
-git clone git@github.com:dabit3/full-stack-web3.git
+git clone github.com/marcusvbrangel/full-stack-web3-blog.git
 ```
 
 2. Install the dependencies
@@ -43,13 +43,13 @@ npx hardhat node
 4. Deploy to localhost
 
 ```sh
-npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run web3/scripts/deploy.js --network localhost
 ```
 
 5. Start the app
 
 ```sh
-npm start
+npm run dev
 ```
 
 
