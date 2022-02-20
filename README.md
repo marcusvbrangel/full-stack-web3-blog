@@ -34,6 +34,16 @@
 [Alchemy](https://www.alchemy.com/) Web3 development made easy. The world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
 
 
+[MetaMask](https://metamask.io/) A crypto wallet & gateway to blockchain apps
+
+
+[IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+
+
+[Next.js](https://nextjs.org/) The React Framework for Production
+
+
+[Vercel](https://vercel.com/) Vercel is the best place to deploy any frontend app. Start by deploying with zero configuration to our global edge network. Scale dynamically to millions of pages without breaking a sweat.
 
 
 
