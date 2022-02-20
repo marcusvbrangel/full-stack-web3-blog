@@ -9,11 +9,19 @@
 
 ## Table of contents
 
+- [Technologies](#technologies)
 - [Live Preview](#live-preview)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
 - [License](#license)
+
+
+## Technologies
+
+[Ethereum](https://ethereum.org/en/)
+
+[Solidity](https://soliditylang.org/)
 
 
 ## Live Preview
