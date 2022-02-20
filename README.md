@@ -79,7 +79,13 @@ Copyright (c) Marcus Rangel. All rights reserved.
 Licensed under the [MIT](LICENSE.md) license.
 
 
+## Contact
 
+[(Back to top)](#table-of-contents)
+
+Copyright (c) Marcus Rangel. All rights reserved.
+
+Licensed under the [MIT](LICENSE.md) license.
 
 
 
