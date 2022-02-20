@@ -24,7 +24,7 @@ npx hardhat help
 
 
 
-# Table of contents
+## Table of contents
 
 - [Usage](#usage)
   - [Flags](#flags)
@@ -50,14 +50,17 @@ npx hardhat help
 - [Contributing](#contributing)
 - [License](#license)
 
-# Usage
+## Usage
 
 [(Back to top)](#table-of-contents)
 
 Man pages have been added. Checkout `man colorls`.
 
+## Contributing
 
-# License
+Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
+
+## License
 
 [(Back to top)](#table-of-contents)
 
