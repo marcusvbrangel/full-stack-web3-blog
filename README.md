@@ -9,6 +9,7 @@
 
 ## Table of contents
 
+- [Features](#features)
 - [Getting Started](#getting-started)
 - [Technologies](#technologies)
 - [Directory Structure](#directory-structure)
@@ -18,6 +19,13 @@
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 - [License](#license)
+
+
+
+<br />
+
+## Features
+
 
 
 <br />
