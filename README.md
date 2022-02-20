@@ -18,6 +18,16 @@
 - [License](#license)
 
 
+
+## Getting Started
+
+
+
+Visit (https://nextjs.org/learn/) to get started with Next.js.
+
+
+
+
 ## Technologies
 
 [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
