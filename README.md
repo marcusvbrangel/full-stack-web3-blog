@@ -6,6 +6,7 @@
 
 
 <br />
+
 ## Table of contents
 
 - [Getting Started](#getting-started)
@@ -19,6 +20,7 @@
 
 
 <br />
+
 ## Getting Started
 
 1. Clone this repository
@@ -64,6 +66,7 @@ For more details visit:
 
 
 <br />
+
 ## Technologies
 
 
@@ -105,6 +108,7 @@ For more details visit:
 
 
 <br />
+
 ## Live Preview
 
 [Web3 Blog](https://full-stack-web3-blog.vercel.app/)
@@ -112,6 +116,7 @@ A special place to share topics and tips about Web3
 
 
 <br />
+
 ## Directory Structure
 
 
@@ -186,6 +191,7 @@ A special place to share topics and tips about Web3
 
 
 <br />
+
 ## Contributing
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
@@ -198,6 +204,7 @@ Feel free to open issues and pull requests. We're always welcome support from th
 
 
 <br />
+
 ## Code of Conduct
 
 Help me keep this project open and inclusive. Please read and follow our [
@@ -205,6 +212,7 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 
 <br />
+
 ## Contact
 
 Copyright (c) Marcus Rangel. All rights reserved.
@@ -213,6 +221,7 @@ Licensed under the [MIT](LICENSE.md) license.
 
 
 <br />
+
 ## License
 
 Copyright (c) Marcus Rangel. All rights reserved.
