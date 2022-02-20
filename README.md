@@ -15,6 +15,7 @@
 - [Live Preview](#live-preview)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
+- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 - [License](#license)
 
@@ -209,6 +210,15 @@ Feel free to open issues and pull requests. We're always welcome support from th
 
 Help me keep this project open and inclusive. Please read and follow our [
 of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
+
+
+
+<br />
+
+## Acknowledgments
+
+[Nader Dabit](https://twitter.com/dabit3/)
+
 
 
 <br />
