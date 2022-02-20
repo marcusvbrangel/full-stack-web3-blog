@@ -256,7 +256,7 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 ## Contact
 
-* [Email:](marcus.vbrangel@gmail.com)
+* Email:(marcus.vbrangel@gmail.com)
 * [GitHub:](https://github.com/marcusvbrangel/)
 * [Twitter:](https://twitter.com/marcusvbrangel/)
 * [LinkedIn](https://www.linkedin.com/in/marcusrangel/)
