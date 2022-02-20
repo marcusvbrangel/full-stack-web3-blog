@@ -2,7 +2,7 @@
 
 
   
-  <img src="/public/web3-blog-2.png" alt="Web3 Blog" style="width: 90%; border-radius: 15px;" />
+  <img src="/public/web3-blog-02.png" alt="Web3 Blog" style="border-radius: 15px;" />
   
 
 
