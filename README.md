@@ -5,8 +5,7 @@
 
 
 
-
-
+<br />
 ## Table of contents
 
 - [Getting Started](#getting-started)
@@ -19,7 +18,7 @@
 - [License](#license)
 
 
-
+<br />
 ## Getting Started
 
 1. Clone this repository
@@ -52,6 +51,7 @@ npx hardhat run web3/scripts/deploy.js --network localhost
 npm run dev
 ```
 
+<br />
 
 Visit (https://nextjs.org/learn/) to get started with Next.js.
 
@@ -61,8 +61,9 @@ Visit (https://hardhat.org/getting-started/#quick-start/) to get started with Ha
 
 
 
-
+<br />
 ## Technologies
+
 
 [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 
@@ -101,13 +102,14 @@ Visit (https://hardhat.org/getting-started/#quick-start/) to get started with Ha
 
 
 
+<br />
 ## Live Preview
 
 [Web3 Blog](https://full-stack-web3-blog.vercel.app/)
 A special place to share topics and tips about Web3
 
 
-
+<br />
 ## Directory Structure
 
 
@@ -181,23 +183,26 @@ A special place to share topics and tips about Web3
 
 
 
-
+<br />
 ## Contributing
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
+
+<br />
 
 If this is your first time contributing to this project, please do read our [Contributor Workflow Guide](https://github.com/the-guild-org/Stack/blob/master/CONTRIBUTING.md) before you get started off.
 
 Feel free to open issues and pull requests. We're always welcome support from the community.
 
 
+<br />
 ## Code of Conduct
 
 Help me keep this project open and inclusive. Please read and follow our [
 of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
-
+<br />
 ## Contact
 
 Copyright (c) Marcus Rangel. All rights reserved.
@@ -205,6 +210,7 @@ Copyright (c) Marcus Rangel. All rights reserved.
 Licensed under the [MIT](LICENSE.md) license.
 
 
+<br />
 ## License
 
 Copyright (c) Marcus Rangel. All rights reserved.
