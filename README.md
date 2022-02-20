@@ -75,13 +75,7 @@ Help me keep this project open and inclusive. Please read and follow our [
 of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
-## License
 
-[(Back to top)](#table-of-contents)
-
-Copyright (c) Marcus Rangel. All rights reserved.
-
-Licensed under the [MIT](LICENSE.md) license.
 
 
 ## Contact
@@ -93,5 +87,12 @@ Copyright (c) Marcus Rangel. All rights reserved.
 Licensed under the [MIT](LICENSE.md) license.
 
 
+## License
+
+[(Back to top)](#table-of-contents)
+
+Copyright (c) Marcus Rangel. All rights reserved.
+
+Licensed under the [MIT](LICENSE.md) license.
 
 
