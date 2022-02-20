@@ -86,10 +86,10 @@ For more details visit:
 ## Technologies
 
 
-[Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+* [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 
 
-[Solidity](https://soliditylang.org/) Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
+* [Solidity](https://soliditylang.org/) Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
 
 
 [Polygon](https://polygon.technology/) Polygon believes in Web3 for all. Polygon is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
@@ -240,9 +240,11 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 ## Contact
 
-Copyright (c) Marcus Rangel. All rights reserved.
 
-Licensed under the [MIT](LICENSE.md) license.
+
+????????????????
+
+????????????????
 
 
 <br />
