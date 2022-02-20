@@ -9,11 +9,11 @@
 
 ## Table of contents
 
-- [Live Preview](##installation)
-- [Contributing](##recommended-configurations)
-- [Code of Conduct](##custom-configurations)
-- [Contact](##updating)
-- [License](##uninstallation)
+- [Live Preview](#live-preview)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Contact](#contact)
+- [License](#license)
 
 
 ## Live Preview
