@@ -58,12 +58,16 @@ Man pages have been added. Checkout `man colorls`.
 
 ## Contributing
 
+[(Back to top)](#table-of-contents)
+
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
 
 
 ## Code of Conduct
 
-Help us keep this project open and inclusive. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
+[(Back to top)](#table-of-contents)
+
+Help me keep this project open and inclusive. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
 ## License
