@@ -25,6 +25,10 @@
 
 Visit (https://nextjs.org/learn/) to get started with Next.js.
 
+Visit (https://hardhat.org/getting-started/#quick-start/) to get started with Hardhat.
+
+
+
 
 
 
@@ -52,6 +56,12 @@ Visit (https://nextjs.org/learn/) to get started with Next.js.
 
 
 [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+
+
+[ethers.js](https://docs.ethers.io/v5/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
+
+[Waffle](https://getwaffle.io/) The most advanced framework for testing smart contracts
+
 
 
 [Next.js](https://nextjs.org/) The React Framework for Production
