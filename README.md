@@ -1,9 +1,9 @@
 
 
 
-  <div style="background-color: red; width: 100%; border-radius: 15px;">
-    <img src="/public/web3-blog.png" alt="Web3 Blog" style="width: 90%; border-radius: 15px;" />
-  </div>
+  
+  <img src="/public/web3-blog-2.png" alt="Web3 Blog" style="width: 90%; border-radius: 15px;" />
+  
 
 
 
