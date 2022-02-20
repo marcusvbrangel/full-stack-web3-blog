@@ -3,7 +3,7 @@
 
 <div>
   <div>
-    <img src="https://github.com/marcusvbrangel/full-stack-web3-blog/blob/main/public/icons8-image-file.svg" alt="React Logo" style="width: '50px" />
+    <img src="/public/web3-blog.png" alt="React Logo" style="width: '50px" />
   </div>
   <div>
     <h2>Web3 Blog</h2>
