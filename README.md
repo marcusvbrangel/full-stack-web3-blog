@@ -3,7 +3,7 @@
 
 <div>
   <div>
-    <img src="/public/web3-blog.png" alt="React Logo" style="width: '50px" />
+    <img src="/public/web3-blog.png" alt="React Logo" style="width: '100px" />
   </div>
   <div>
     <h2>Web3 Blog</h2>
