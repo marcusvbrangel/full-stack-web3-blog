@@ -46,3 +46,4 @@ cache
 # my artifacts
 notes.txt
 /temp
+ .vscode/extensions.json
