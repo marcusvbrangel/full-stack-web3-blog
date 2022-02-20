@@ -53,9 +53,11 @@ npm run dev
 
 <br />
 
-Visit (https://nextjs.org/learn/) to get started with Next.js.
+For more details visit:
 
-Visit (https://hardhat.org/getting-started/#quick-start/) to get started with Hardhat.
+(https://nextjs.org/learn/) to get started with Next.js.
+
+(https://hardhat.org/getting-started/#quick-start/) to get started with Hardhat.
 
 
 
