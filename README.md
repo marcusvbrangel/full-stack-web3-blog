@@ -72,7 +72,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <br />
 
   
-:cyclone: ##Features
+##Features :cyclone:
 
 * List
 * Create
@@ -85,7 +85,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 <br />
 
-## Prerequisites
+## Prerequisites :cyclone:
 
 Make sure you have installed all of the following prerequisites on your development machine:
 
