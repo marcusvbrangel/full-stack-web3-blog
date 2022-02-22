@@ -4,6 +4,28 @@
   
   <img src="/public/web3-blog-03.png" alt="Web3 Blog" />
   
+  
+  <table border="1">
+    <tr>
+      <td>
+        x
+      </td>
+      <td>
+        x
+      </td>
+      <td>
+        x
+      </td>
+      <td>
+        x
+      </td>
+      <td>
+        x
+      </td>
+    </tr>  
+  </table>
+  
+  
 
 <br />
 
