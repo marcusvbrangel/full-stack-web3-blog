@@ -70,9 +70,9 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 
 <br />
-:cyclone:
+
   
-##  Features
+:cyclone: ##Features
 
 * List
 * Create
