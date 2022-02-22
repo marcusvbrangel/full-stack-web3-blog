@@ -74,11 +74,23 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
   
 ## Features :cyclone:
 
-* List
-* Create
-* Update
-* Login
-* Add Cover
+* Contract
+* Test the contract
+* Deploy the contract to node
+* Create the layout e bar navigation
+* Create the entrypoint
+* Create the posts
+* Create the view post
+* Create the edit post
+* Deploy to Polygon Mumbai Network
+* Create the subgraph API
+* Create the project in The Graph
+* Initializing a new subgraph using The Graph CLI
+* Defining the entities
+* Updating the subgraph with the entities and mappings
+* Assembly script mappings
+* Deploying the subgraph
+* Querying for data
 
 
 
