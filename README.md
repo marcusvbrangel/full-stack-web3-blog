@@ -100,7 +100,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 <br />
 
-## Getting Started
+## Getting Started :cyclone:
 
 1. Clone this repository
 
@@ -146,7 +146,7 @@ For more details visit:
 
 <br />
 
-## Technologies
+## Technologies :cyclone:
 
 
 * [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
@@ -189,7 +189,7 @@ For more details visit:
 
 <br />
 
-## Live Preview
+## Live Preview :cyclone:
 
 [Web3 Blog](https://full-stack-web3-blog.vercel.app/)
 A special place to share topics and tips about Web3
@@ -197,7 +197,7 @@ A special place to share topics and tips about Web3
 
 <br />
 
-## Directory Structure
+## Directory Structure :cyclone:
 
 
     .
@@ -272,7 +272,7 @@ A special place to share topics and tips about Web3
 
 <br />
 
-## Contributing
+## Contributing :cyclone:
 
 Have a look through existing [Issues](https://github.com/marcusvbrangel/full-stack-web3-blog/issues) and [Pull Requests](https://github.com/marcusvbrangel/full-stack-web3-blog/pulls) that you could help with.
 
@@ -285,7 +285,7 @@ Feel free to open issues and pull requests. We're always welcome support from th
 
 <br />
 
-## Code of Conduct
+## Code of Conduct :cyclone:
 
 Help me keep this project open and inclusive. Please read and follow our [
 of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.md) as adopted from [Contributor Covenant](https://www.contributor-covenant.org/)
@@ -294,7 +294,7 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 <br />
 
-## Acknowledgments
+## Acknowledgments :cyclone:
 
 [Nader Dabit](https://twitter.com/dabit3/)
 
@@ -302,7 +302,7 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 <br />
 
-## Contact
+## Contact :cyclone:
 
 * Email:    marcus.vbrangel@gmail.com
 * GitHub:   https://github.com/marcusvbrangel/
@@ -315,7 +315,7 @@ of Conduct](https://github.com/the-guild-org/Stack/blob/master/CODE_OF_CONDUCT.m
 
 <br />
 
-## License
+## License :cyclone:
 
 Copyright (c) Marcus Rangel. All rights reserved.
 
