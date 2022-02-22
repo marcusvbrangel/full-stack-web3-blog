@@ -2,29 +2,43 @@
 
 
   
-  <img src="/public/web3-blog-03.png" alt="Web3 Blog" />
+  <img src="public/web3-blog-03.png" alt="Web3 Blog" />
   
   
   <table border="1">
     <tr>
       <td>
-        x
+        <img src="public/ethereum.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
       </td>
       <td>
-        x
+        <img src="public/solidity-01.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
       </td>
       <td>
-        x
+        <img src="public/polygon-03.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
       </td>
       <td>
-        x
+        <img src="public/hardhat.jpg" alt="Web3 Blog" style="width: 100px; height: 100px" />
       </td>
       <td>
-        x
+        <img src="public/alchemy-01.jpeg" alt="Web3 Blog" style="width: 100px; height: 100px" />
+      </td>
+      <td>
+        <img src="public/thegraph-02.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
+      </td>
+      <td>
+        <img src="public/ethersjs-1.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
+      </td>
+      <td>
+        <img src="public/ipfs-01.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
+      </td>
+      <td>
+        <img src="public/metamask-01.jpeg" alt="Web3 Blog" style="width: 100px; height: 100px" />
       </td>
     </tr>  
   </table>
   
+
+
   
 
 <br />
