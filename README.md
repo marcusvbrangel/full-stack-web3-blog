@@ -5,7 +5,7 @@
   <img src="public/web3-blog-03.png" alt="Web3 Blog" />
   
   
-  <table border="1">
+  <table border="1" style="background-color: #fffaaa>
     <tr>
       <td>
         <img src="public/ethereum.png" alt="Web3 Blog" style="width: 100px; height: 100px" />
